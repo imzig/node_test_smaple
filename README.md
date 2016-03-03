@@ -1,4 +1,5 @@
-# node test smaple
+# OS X - node test smaple
+```설치 환경 - OS X 10.11 El Capitan```
 
 1. node
 2. express
