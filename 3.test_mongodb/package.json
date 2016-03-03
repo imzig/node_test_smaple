@@ -1,0 +1,16 @@
+{
+  "name": "test3",
+  "version": "0.0.1",
+  "description": "test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imzig",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "*",
+    "mongoose": "^4.4.5",
+    "mysql": "^2.10.2"
+  }
+}
