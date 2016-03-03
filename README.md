@@ -44,3 +44,16 @@ $ brew install mysql
 $ mysql.server start
 ```
 
+## 각 테스트 실행 ##
+
+### npm 모듈 설치
+```
+$ npm install
+```
+
+### 실행
+```
+> 1. node index.js
+> 2. npm start
+> 3, 4. node app.js
+```
