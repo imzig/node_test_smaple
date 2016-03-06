@@ -21,13 +21,13 @@ connection.query('create table family(id INT(3) AUTO_INCREMENT, name VARCHAR(20)
     if(err) console.log(err);
 });
 // family 테이블에 데이터 넣기
-connection.query('insert into family (name) values (?)',"Metashower",function (err) {
+connection.query('insert into family (name) values (?)',"Test",function (err) {
     if(err) console.log(err);
 });
-connection.query('insert into family (name) values (?)',"쩌리",function (err) {
+connection.query('insert into family (name) values (?)',"연습",function (err) {
     if(err) console.log(err);
 });
-connection.query('insert into family (name) values (?)',"Yoon Hyunchul",function (err) {
+connection.query('insert into family (name) values (?)',"Test Name Insert",function (err) {
     if(err) console.log(err);
 });
  
